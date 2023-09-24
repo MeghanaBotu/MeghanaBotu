@@ -7,6 +7,8 @@ Here are some highlights about me:
 
 •	Currently working on building a career in the fields of Software Engineering and Data Engineering.
 
+🔭 Projects I Worked On..!
+
 •	There are some of my cool projects listed in this GitHub, please feel free to check them out!:)
 
 **Brewery Expansion**
