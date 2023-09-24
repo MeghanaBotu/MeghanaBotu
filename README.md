@@ -6,7 +6,21 @@ I am a recent **Graduate from Arizona State University**. I completed my** Maste
 Here are some highlights about me:
 
 •	Currently working on building a career in the fields of Software Engineering and Data Engineering.
+
 •	There are some of my cool projects listed in this GitHub, please feel free to check them out!:)
+**Brewery Expansion**
+•	Analyzed sales data to identify noticeable patterns indicating growth & planning opportunities for expansion harnessing Tableau, having potential to yield 2 times its previous sales.
+**Academic Canvas**
+•	A SpringBoot MVC architectural Microservice HTTP application for seamless text file upload and download, simplifying the professor’s work by 30% while evaluating student’s assignments.
+**Robust Authenticated User Login**
+•	Engineered user authentication full stack framework employing Node.js, Express.js, and MongoDB, affording seamless user registration coupled with fortified storage in MongoDB, leveraging Bcrypt library.  It substantially hampers password cracking by 10000 times when contrasted with hash functions.
+**Weather at a Glance**
+•	Streamlined a web application making use of Node.js and integrated through ‘Weatherapi’ API to seamlessly dispatch weather emails via ‘nodemailer’ and JSON, regarding city's weather as prompted by user, maximizing user engagement by impressive 50%.
+**Video Gamer’s Sentiments**
+•	Employed HuggingFace TFBertModel model and Python Reddit API Wrapper (PRAW web scrapping), to execute sentiment analysis on Unstructured Reddit data from video game users, revealing a paltry 6% average sentiment score, showcasing how "Early Game" access resulted in a largely unfavorable reception.
+**Predict Credit Card Defaulters**
+•	Built Predictive models to identify credit defaulters with utmost precision, attaining an impressive accuracy rate of 82.93% and generating an additional uplift of 1.8 million leveraging Random Forest Classifier.
+
 •	How to reach me: 
 o	Email: mbotu@asu.edu
 o	LinkedIn: https://www.linkedin.com/in/meghana-botu-041420177/ 
