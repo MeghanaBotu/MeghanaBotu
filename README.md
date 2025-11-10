@@ -30,7 +30,6 @@ Here are some highlights about me:
 •	Built Predictive models to identify credit defaulters with utmost precision, attaining an impressive accuracy rate of 82.93% and generating an additional uplift of 1.8 million leveraging Random Forest Classifier.
 
 •	How to reach me: 
-o	**Email**: mbotu@asu.edu
 o	**LinkedIn**: https://www.linkedin.com/in/meghana-botu-041420177/ 
 
 <!--
